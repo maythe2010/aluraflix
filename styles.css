@@ -3,5 +3,5 @@ color: white;
    background: black;
 }
    header {
-    border: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(42, 122, 228);
 }
