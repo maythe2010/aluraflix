@@ -16,8 +16,8 @@ section {
     display: flex;
     justify-content: center;
 }
-div {
+
    .chamada-texto {
-    margin-right: 20px;
+       margin-right: 5%;
 }
 
