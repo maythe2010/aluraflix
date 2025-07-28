@@ -17,9 +17,8 @@ section {
     display: flex;
     justify-content: center;
 }
-
-   .chamada-texto {
-       margin-right: 5%;
+div {
+        margin-right: 20px;
 }      
       h1 {
   font-size: 40px;
